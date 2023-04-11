@@ -2,7 +2,7 @@
 
 <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Yunus Emre
+## 👷🏻‍♀️👋🏻 Hi there, I'm Yasin Demir
 
 <font color="pink"> 🐱‍🏍 I'm Front End Developer </font>
 </br>
@@ -16,9 +16,9 @@
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-%C3%A7ak%C4%B1r/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-demir-8179bb257/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@ysndmr000)
 
 </br>
 </br>
@@ -79,7 +79,7 @@
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
+[React - Tailwind]() <h3>[Repo]()</h3> | React - Tailwind |<img src="" align="right" width="500">
 [React - Hook -StyleComponent](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Hook- StyleComponent |<img src="https://media.giphy.com/media/eZAEErBuMzfTaFu3Hg/giphy.gif" align="right" width="500">
 [React - Hook -Tailwind](https://reliable-kleicha-c90851.netlify.app/) <h3>[Repo](https://reliable-kleicha-c90851.netlify.app/)</h3> | React - Hook- Tailwind |<img src="https://media.giphy.com/media/vw2q9k65zeEme16Oar/giphy.gif" align="right" width="500">
 [React - State-Hook](https://snazzy-sherbet-4cddea.netlify.app/) <h3>[Repo](https://snazzy-sherbet-4cddea.netlify.app/)</h3> | React - State-Hook |<img src="https://media.giphy.com/media/4K3nVCNakT4xdZdbi9/giphy.gif" align="right" width="500">
@@ -107,11 +107,11 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=Cakir010&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=ysndmr1&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cakir010&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysndmr1&theme=blue-green"
      alt=""
      /> <br/>
 </div>
